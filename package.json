@@ -1,0 +1,19 @@
+{
+  "name": "rpgg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest test.spec.js",
+    "payroll": "./index.js"
+  },
+  "author": "Jake",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^6.2.0",
+    "dayjs": "^1.9.7"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
